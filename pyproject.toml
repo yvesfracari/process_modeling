@@ -12,6 +12,7 @@ cadCAD = "^0.4.23"
 jupyter = "^1.0.0"
 notebook = "^6.2.0"
 plotly = "^4.14.3"
+scipy = "^1.6.1"
 
 [tool.poetry.dev-dependencies]
 
